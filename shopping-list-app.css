@@ -1,16 +1,16 @@
 /* variables */
 
 :root {
-    --font-color: #2d3436;
+    --font-color: #1A1A1A;
     --body-bg-color: #F7F0FB;
     --container-bg-color: #E3B5FE;
     --shopping-bg-color: #D289FE;
     --bought-bg-color: #A9A0FE;
-    --svg-normal-color: #2d3436;
-    --svg-hover-color: #AC3FFF;
-    --svg-bought-color: #AC3FFF;
-    --svg-remove-color: #fb3c3d;
-    --svg-remove-hover-color: #9c0809;
+    --svg-normal-color: #1A1A1A;
+    --svg-hover-color: #7600D1;
+    --svg-bought-color: #7600D1;
+    --svg-remove-color: #770303;
+    --svg-remove-hover-color: #DA4E4E;
 }
 
 * {
